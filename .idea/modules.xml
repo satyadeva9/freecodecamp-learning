@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/freecodecamp-learning.iml" filepath="$PROJECT_DIR$/.idea/freecodecamp-learning.iml" />
+      <module fileurl="file://D:/New folder/io-wfe-ionic/.idea/io-wfe-ionic.iml" filepath="D:/New folder/io-wfe-ionic/.idea/io-wfe-ionic.iml" />
     </modules>
   </component>
 </project>

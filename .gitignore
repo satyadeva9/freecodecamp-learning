@@ -36,3 +36,4 @@ plugins/
 Thumbs.db
 UserInterfaceState.xcuserstate
 package-lock.json
+'.idea' 
